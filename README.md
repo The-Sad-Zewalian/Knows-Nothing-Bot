@@ -19,7 +19,7 @@ We found that it is possible to fine-tune a GPT model for question answering. We
 
 ## Bot API
 
-To create the bot API, we created a space on Hugging Face with two files: `app.py`, which contains the code that represents the GUI, and `requirements.txt`, which contains the packages that will be installed in our model's environment. We used Gradio to create the API.
+To create the bot API, we created a space on [Hugging Face](https://huggingface.co/Knows-Nothing/GPT_2_FineTuned) with two files: `app.py`, which contains the code that represents the GUI, and `requirements.txt`, which contains the packages that will be installed in our model's environment. We used Gradio to create the API.
 
 ## Some Replies
 ![Sample Image 1](photos/QA1.png)
