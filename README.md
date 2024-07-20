@@ -32,12 +32,6 @@ And The Best One:
 
 ![Sample Image 1](photos/QA4.png)
 
-## Google Colab Links
-[Data Scraping](https://colab.research.google.com/drive/1JjOWCcyz7VtJZOmy340aklV9Kfnj3O-l?usp=sharing)
-
-[Main Code](https://colab.research.google.com/drive/1vKybBUZUVRG80eQmf79VuGfVVUcnIWdQ?usp=sharing)
-
-[API Creation](https://colab.research.google.com/drive/10mI1L5oPYiSnoXSbIZaFSvUqaX27S-6E?usp=sharing)
 
 ## Requirements
 The project requires Python 3.5 or later and the following libraries:
